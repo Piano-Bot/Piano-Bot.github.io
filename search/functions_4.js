@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['parsecsv_38',['parseCSV',['../classHandBuilder.html#ac28a983ae4dcebb3a71381993446b82f',1,'HandBuilder']]],
-  ['position_39',['Position',['../classPosition.html#a02356d89fcfad95d87e98d6e85462b3b',1,'Position']]]
+  ['hand_51',['Hand',['../classHand.html#aa733faf150351c640fc7d1bf460b07e9',1,'Hand']]],
+  ['hasnext_52',['hasNext',['../classHand.html#ab89fc4f3425626fe6f3a838f74ff089c',1,'Hand::hasNext()'],['../classPosition.html#a9755590527fa2f482b4a1bf314ffd04a',1,'Position::hasNext()']]]
 ];
